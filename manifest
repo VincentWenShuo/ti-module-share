@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+apiversion: 2
+description: My module
+author: Vincent
+license: Specify your license
+copyright: Copyright (c) 2014 by Your Company
+
+
+# these should not be edited
+name: ti-module-share
+moduleid: ti.module.share
+guid: b9c9a026-8b48-4b84-ab4a-72f5efbe3cb7
+platform: iphone
+minsdk: 3.2.1.Alpha
