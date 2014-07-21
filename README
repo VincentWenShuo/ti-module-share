@@ -3,6 +3,10 @@ ti-module-share
 Titanium module to open IOS share activity window
 Currently it only supports sharing text content.
 
+![alt tag](https://github.com/VincentWenShuo/ti-module-share/tree/master/assets/IMG_0062.PNG)
+![alt tag](https://github.com/VincentWenShuo/ti-module-share/tree/master/assets/IMG_0063.PNG)
+![alt tag](https://github.com/VincentWenShuo/ti-module-share/tree/master/assets/IMG_0064.PNG)
+
 How to use
 ------------
 1. Add module to your titanium project
