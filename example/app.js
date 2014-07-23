@@ -13,15 +13,26 @@ win.add(label);
 win.open();
 
 // TODO: write your module tests here
-var timoduleshare = require('ti.module.share');
+var timoduleshare = require('ma.car.ti.module.share');
 Ti.API.info("module is => " + timoduleshare);
 
 label.text = timoduleshare.example();
 
 Ti.API.info("module exampleProp is => " + timoduleshare.exampleProp);
-timoduleshare.shareCarma("This is a test value");
+timoduleshare.share({
+	text: "share carma!",
+	callback: function(res){
+		console.log( res );
+		if( res.state === "SUCCESS" ){
+			console.log( "share successed" );
+		}
+		else{
+			console.log( "share failed" );
+		}
+	}
+});
 
-if (Ti.Platform.name == "android") {
+if (Ti.Platform.name === "android") {
 	var proxy = timoduleshare.createExample({
 		message: "Creating an example Proxy",
 		backgroundColor: "red",

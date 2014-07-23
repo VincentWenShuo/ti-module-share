@@ -67,7 +67,7 @@ def generate_doc(config):
 	return documentation
 
 def compile_js(manifest,config):
-	js_file = os.path.join(cwd,'assets','ti.module.share.js')
+	js_file = os.path.join(cwd,'assets','ma.car.ti.module.share.js')
 	if not os.path.exists(js_file): return
 
 	from compiler import Compiler
@@ -97,7 +97,7 @@ def compile_js(manifest,config):
 
 	from tools import splice_code
 
-	assets_router = os.path.join(cwd,'Classes','TiModuleShareModuleAssets.m')
+	assets_router = os.path.join(cwd,'Classes','MaCarTiModuleShareModuleAssets.m')
 	splice_code(assets_router, 'asset', root_asset_content)
 	splice_code(assets_router, 'resolve_asset', module_asset_content)
 

@@ -1,0 +1,553 @@
+Ttimodule-share
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.pch MaCarTiModuleShare_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.pch MaCarTiModuleShare_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLibtool /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a normal i386
+cLibtool /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a normal x86_64
+cCreateUniversalBinary /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/libMaCarTiModuleShare.a normal i386\ x86_64
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053A83A2100000000000003B4
+t1403533857
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053A83A24000000000000019E
+t1403533860
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053A83A26000000000088D8C0
+t1403533862
+s8968384
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.h
+c0000000053CF800300000000000000F8
+t1406107651
+s248
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m
+c0000000053CF8FC4000000000000104D
+t1406111684
+s4173
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.h
+c0000000053CF800300000000000000D7
+t1406107651
+s215
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m
+c0000000053CF80030000000000000260
+t1406107651
+s608
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/MaCarTiModuleShare_Prefix.pch
+c0000000053CF8003000000000000003E
+t1406107651
+s62
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/libMaCarTiModuleShare.a
+t1406111687
+s129576
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShare.LinkFileList
+c0000000053CF80730000000000000188
+t1406107763
+s392
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.o
+t1406111687
+s57340
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.o
+t1406107763
+s5044
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a
+t1406111687
+s62888
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShare.LinkFileList
+c0000000053CF8073000000000000018C
+t1406107763
+s396
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.o
+t1406111687
+s60312
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.o
+t1406107763
+s5832
+
+N/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a
+t1406111687
+s66640
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/Bridge.h
+c0000000052EBE0420000000000000268
+t1391190082
+s616
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollBridge.h
+c0000000052EBE042000000000000091A
+t1391190082
+s2330
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollCallback.h
+c0000000052EBE0420000000000000AA8
+t1391190082
+s2728
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollContext.h
+c0000000052EBE04200000000000013B2
+t1391190082
+s5042
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollObject.h
+c0000000052EBE0420000000000000D7F
+t1391190082
+s3455
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/LayoutConstraint.h
+c0000000052EBE0420000000000000B9E
+t1391190082
+s2974
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/ListenerEntry.h
+c0000000052EBE0420000000000000269
+t1391190082
+s617
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiAnimation.h
+c0000000052EBE042000000000000124D
+t1391190082
+s4685
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiApp.h
+c0000000052EBE04200000000000015F6
+t1391190082
+s5622
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBase.h
+c0000000052EBE0420000000000004C46
+t1391190082
+s19526
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBindingRunLoop.h
+c0000000052EBE042000000000000058B
+t1391190082
+s1419
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBlob.h
+c0000000052EBE0420000000000000B0A
+t1391190082
+s2826
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBuffer.h
+c0000000052EBE04200000000000005EF
+t1391190082
+s1519
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiColor.h
+c0000000052EBE0420000000000000496
+t1391190082
+s1174
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiControllerProtocols.h
+c0000000052EBE0420000000000000CF5
+t1391190082
+s3317
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/Ti.h
+c0000000052EBE0420000000000000721
+t1391190082
+s1825
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiBase.h
+c0000000052EBE04200000000000019E1
+t1391190082
+s6625
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRef.h
+c0000000052EBE04200000000000014DD
+t1391190082
+s5341
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRefPrivate.h
+c0000000052EBE0420000000000000990
+t1391190082
+s2448
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiCore.h
+c0000000052EBE04200000000000006A0
+t1391190082
+s1696
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiObjectRef.h
+c0000000052EBE0420000000000009462
+t1391190082
+s37986
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRef.h
+c0000000052EBE04200000000000016E7
+t1391190082
+s5863
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRefCF.h
+c0000000052EBE0420000000000000A40
+t1391190082
+s2624
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiValueRef.h
+c0000000052EBE042000000000000323B
+t1391190082
+s12859
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/WebKitAvailability.h
+c0000000052EBE04200000000000080D1
+t1391190082
+s32977
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiDimension.h
+c0000000052EBE0420000000000000FF5
+t1391190082
+s4085
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiEvaluator.h
+c0000000052EBE04200000000000004D5
+t1391190082
+s1237
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiFile.h
+c0000000052EBE0420000000000000680
+t1391190082
+s1664
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiGradient.h
+c0000000052EBE04200000000000005FC
+t1391190082
+s1532
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiHost.h
+c0000000052EBE0420000000000000532
+t1391190082
+s1330
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiModule.h
+c0000000052EBE0420000000000000736
+t1391190082
+s1846
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPoint.h
+c0000000052EBE0420000000000000443
+t1391190082
+s1091
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiProxy.h
+c0000000052EBE0420000000000002B9A
+t1391190082
+s11162
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPublicAPI.h
+c0000000052EBE0420000000000000A67
+t1391190082
+s2663
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiRect.h
+c0000000052EBE042000000000000045C
+t1391190082
+s1116
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiRootViewController.h
+c0000000052EBE0420000000000000A1C
+t1391190082
+s2588
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiStylesheet.h
+c0000000052EBE04200000000000002CB
+t1391190082
+s715
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiThreading.h
+c0000000052EBE04200000000000008EF
+t1391190082
+s2287
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUIView.h
+c0000000052EBE04200000000000020E7
+t1391190082
+s8423
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUtils.h
+c0000000052EBE0420000000000005565
+t1391190082
+s21861
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiViewProxy.h
+c0000000052EBE0420000000000003EEE
+t1391190082
+s16110
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiViewTemplate.h
+c0000000052EBE042000000000000028D
+t1391190082
+s653
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/WebFont.h
+c0000000052EBE0420000000000000A25
+t1391190082
+s2597
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/XHRBridge.h
+c0000000052EBE04200000000000001DA
+t1391190082
+s474
+
+N/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/defines.h
+c0000000052EBE0420000000000000C4C
+t1391190082
+s3148
+
+N/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.pch
+t1406107763
+s3232744
+
+N/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.pch
+t1406107763
+s3236540
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies5019374ac77fb941^3204444ac77fb941^---0#1#1#--18"Check dependencies36"5815B474-F659-4764-A00F-3627BF508243-
+
+CCompileC build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427804487.151293
+e427804487.272395
+r1
+xCompileC
+xbuild/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiModule.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiProxy.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBase.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/defines.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiThreading.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPublicAPI.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiEvaluator.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollContext.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiCore.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/Ti.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiBase.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiObjectRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiValueRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/WebKitAvailability.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRefCF.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollCallback.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollObject.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBindingRunLoop.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUtils.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiDimension.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiColor.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/WebFont.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiFile.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBuffer.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBlob.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiHost.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/Bridge.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiStylesheet.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiApp.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollBridge.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/XHRBridge.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiRootViewController.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiControllerProtocols.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiViewProxy.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUIView.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiAnimation.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPoint.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/ListenerEntry.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/LayoutConstraint.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiGradient.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiRect.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m246"[1mCompileC[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.o [1mClasses/MaCarTiModuleShareModule.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler8bfc2647c77fb941^38bb4547c77fb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m0000000000000000^4440"[1mCompileC[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.o [1mClasses/MaCarTiModuleShareModule.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=108 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModule.o36"A1A4874A-5C52-4DED-B310-D1D373D93F03-
+bD27DA95C-CF92-4E55-8BD4-CC053B9E47B7
+
+CCompileC build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427800563.847109
+e427800563.865930
+r1
+xCompileC
+xbuild/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m258"[1mCompileC[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.o [1mClasses/MaCarTiModuleShareModuleAssets.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerfeefd8f3b77fb941^b8adddf3b77fb941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m0000000000000000^4476"[1mCompileC[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.o [1mClasses/MaCarTiModuleShareModuleAssets.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=108 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShareModuleAssets.o36"0DF574D9-B57D-4B4B-90E4-A4723878860B-
+b74DED5B4-5687-4DFE-ABC3-07CEC6701738
+
+CCompileC build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427804487.151909
+e427804487.272399
+r1
+xCompileC
+xbuild/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiModule.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiProxy.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBase.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/defines.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiThreading.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPublicAPI.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiEvaluator.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollContext.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiCore.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/Ti.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiBase.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiObjectRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiValueRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/WebKitAvailability.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRef.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiStringRefCF.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore/TiContextRefPrivate.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollCallback.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollObject.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBindingRunLoop.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUtils.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiDimension.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiColor.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/WebFont.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiFile.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBuffer.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiBlob.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiHost.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/Bridge.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiStylesheet.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiApp.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/KrollBridge.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/XHRBridge.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiRootViewController.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiControllerProtocols.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiViewProxy.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiUIView.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiAnimation.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiPoint.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/ListenerEntry.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/LayoutConstraint.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiGradient.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiRect.h
+d/Users/vincent.wenshuo/Library/Application Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiViewTemplate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection116"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m250"[1mCompileC[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.o [1mClasses/MaCarTiModuleShareModule.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdffc2647c77fb941^9cbf4547c77fb941^---0#0#1#-19%DVTDocumentLocation2@115"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m0000000000000000^4451"[1mCompileC[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.o [1mClasses/MaCarTiModuleShareModule.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=108 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModule.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModule.o36"3BDAAD10-673B-4EBC-A6A9-814A01B6F620-
+bD27DA95C-CF92-4E55-8BD4-CC053B9E47B7
+
+CCompileC build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427800563.847664
+e427800563.866784
+r1
+xCompileC
+xbuild/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.o
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection122"Compile /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m262"[1mCompileC[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.o [1mClasses/MaCarTiModuleShareModuleAssets.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilera916d9f3b77fb941^10e7ddf3b77fb941^---0#0#1#-19%DVTDocumentLocation2@121"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m0000000000000000^4487"[1mCompileC[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.o [1mClasses/MaCarTiModuleShareModuleAssets.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=108 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator -DTI_POST_1_2 -include /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch -MMD -MT dependencies -MF /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.d --serialize-diagnostics /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.dia -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/Classes/MaCarTiModuleShareModuleAssets.m -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShareModuleAssets.o36"66D3763F-0F65-488B-841F-6C33EAE26480-
+b74DED5B4-5687-4DFE-ABC3-07CEC6701738
+
+CCreateUniversalBinary /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/libMaCarTiModuleShare.a normal i386\ x86_64
+s427804487.278214
+e427804487.284620
+r1
+xCreateUniversalBinary
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/libMaCarTiModuleShare.a
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection151"Create universal binary /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/libMaCarTiModuleShare.a111"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/libMaCarTiModuleShare.a[0m normal i386\ x86_6484474747c77fb941^4cde4847c77fb941^---0#0#1#-19%DVTDocumentLocation2@134"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/libMaCarTiModuleShare.a0000000000000000^1144"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/libMaCarTiModuleShare.a[0m normal i386\ x86_64    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/libMaCarTiModuleShare.a36"EADB186C-ACA0-4678-A986-18786FEFD073-
+bD27DA95C-CF92-4E55-8BD4-CC053B9E47B7
+
+CLibtool /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a normal i386
+s427804487.273129
+e427804487.277713
+r1
+xLibtool
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a
+xnormal
+xi386
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection143"[1mLibtool[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a normal i386143"[1mLibtool[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a normal i38636014647c77fb941^ab234747c77fb941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1384"[1mLibtool[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a normal i386    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only i386 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator -filelist /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/MaCarTiModuleShare.LinkFileList -ObjC -framework Foundation -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/i386/libMaCarTiModuleShare.a36"4F3A180B-C7E1-4CC8-AF50-36D6B804CC5B-
+bD27DA95C-CF92-4E55-8BD4-CC053B9E47B7
+
+CLibtool /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a normal x86_64
+s427804487.273399
+e427804487.277712
+r1
+xLibtool
+x/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a
+xnormal
+xx86_64
+o/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC 
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection147"[1mLibtool[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a normal x86_64147"[1mLibtool[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a normal x86_64ae0c4647c77fb941^471f4747c77fb941^-159"/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool: -dynamic not specified the following flags are invalid: -ObjC -0#0#1#--1394"[1mLibtool[0m build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a normal x86_64    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export IPHONEOS_DEPLOYMENT_TARGET=4.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/libtool -static -arch_only x86_64 -syslibroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator -filelist /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/MaCarTiModuleShare.LinkFileList -ObjC -framework Foundation -o /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/Objects-normal/x86_64/libMaCarTiModuleShare.a36"F3A05D27-441E-4E4A-997D-6DA9034E33CA-
+bD27DA95C-CF92-4E55-8BD4-CC053B9E47B7
+
+CProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.pch MaCarTiModuleShare_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427800563.712704
+e427800563.846330
+r1
+xProcessPCH
+x/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.pch
+xMaCarTiModuleShare_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/MaCarTiModuleShare_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile MaCarTiModuleShare_Prefix.pch323"[1mProcessPCH[0m /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.pch MaCarTiModuleShare_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerdd94b6f3b77fb941^a8aad8f3b77fb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/MaCarTiModuleShare_Prefix.pch0000000000000000^4345"[1mProcessPCH[0m /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.pch MaCarTiModuleShare_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=108 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources/i386 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.d -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/MaCarTiModuleShare_Prefix.pch -o /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-cjhxgzzcmidxobadfbbvajccrvbd/MaCarTiModuleShare_Prefix.pch.pch36"242C7873-2F09-4378-8D6B-343011F37A25-
+b74DED5B4-5687-4DFE-ABC3-07CEC6701738
+
+CProcessPCH /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.pch MaCarTiModuleShare_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s427800563.712914
+e427800563.842382
+r1
+xProcessPCH
+x/var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.pch
+xMaCarTiModuleShare_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/MaCarTiModuleShare_Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection40"Precompile MaCarTiModuleShare_Prefix.pch325"[1mProcessPCH[0m /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.pch MaCarTiModuleShare_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler1c96b6f3b77fb941^01a7d7f3b77fb941^---0#0#1#-19%DVTDocumentLocation2@110"file:///Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/MaCarTiModuleShare_Prefix.pch0000000000000000^4348"[1mProcessPCH[0m /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.pch MaCarTiModuleShare_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Users/vincent.wenshuo/Library/android-sdk-macosx/tools:/Users/vincent.wenshuo/Library/android-sdk-macosx/platform-tools:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=108 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=c99 -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-implicit-atomic-properties -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wno-missing-braces -Wno-parentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DTI_VERSION= -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=4.0 -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-generated-files.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-own-target-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-all-target-headers.hmap -iquote /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/MaCarTiModuleShare-project-headers.hmap -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include -I/Users/vincent.wenshuo/Library/Application\ Support/Titanium/mobilesdk/osx/3.2.1.Alpha/iphone/include/TiCore -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources/x86_64 -I/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/timodule-share.build/Release-iphonesimulator/timodule-share.build/DerivedSources -F/Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/build/Release-iphonesimulator -DTI_POST_1_2 --serialize-diagnostics /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.d -c /Users/vincent.wenshuo/Documents/Titanium_Studio_Workspace/timodule-share/MaCarTiModuleShare_Prefix.pch -o /var/folders/hw/888qv73j52j_gkyw3kn0xgv80000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/MaCarTiModuleShare_Prefix-ehrvdwwsvqjyhqacutmobwnaosbx/MaCarTiModuleShare_Prefix.pch.pch36"2AB73665-4ACE-4349-B8FC-0CCEB5AEE81E-
+b74DED5B4-5687-4DFE-ABC3-07CEC6701738
+
