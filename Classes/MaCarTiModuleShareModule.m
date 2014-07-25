@@ -106,10 +106,14 @@
 
 -(id)share:(id)args
 {
-    KrollCallback* callback = [[args objectAtIndex:0] valueForKey:@"callback"];
+    ENSURE_UI_THREAD_1_ARG(args);
+    KrollCallback* m_callback = [[args objectAtIndex:0] valueForKey:@"callback"];
     NSString* shareContent = [NSString stringWithFormat:@"%@", [[args objectAtIndex:0] valueForKey:@"text"]];
-    //Create an activity view controller with the url container as its activity item. APLCustomURLContainer conforms to the UIActivityItemSource protocol.
-    UIActivityViewController *activityViewController = [[UIActivityViewController alloc] initWithActivityItems:@[shareContent] applicationActivities:nil];
+    UIActivityViewController *activityViewController = [[[UIActivityViewController alloc] initWithActivityItems:@[shareContent] applicationActivities:nil ] autorelease];
+    
+    if (floor(NSFoundationVersionNumber) > NSFoundationVersionNumber_iOS_6_1) {
+        activityViewController.excludedActivityTypes = @[UIActivityTypeAirDrop];
+    }
     
     [activityViewController setCompletionHandler:^(NSString *activityType, BOOL completed) {
         NSLog(@"completed dialog - activity: %@ - finished flag: %d", activityType, completed);
@@ -130,10 +134,10 @@
             //return nil;
         }
         
-        if(callback){
+        if(m_callback){
             NSDictionary* dict = [[[NSDictionary alloc] initWithObjectsAndKeys:@"SUCCESS", @"state", shareType, @"shareType", [NSNumber numberWithBool:completed], @"completed", nil] autorelease];
             NSArray* array = [NSArray arrayWithObjects: dict, nil];
-            [callback call:array thisObject:nil];
+            [m_callback call:array thisObject:nil];
         }
     }];
     

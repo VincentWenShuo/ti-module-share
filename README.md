@@ -10,22 +10,6 @@ Currently it only supports sharing text content.
 How to use
 ------------
 1. Add module to your titanium project
-2. Call require('ma.car.ti.module.share’).share({
-	text: "share carma!",
-	callback: function(res){
-		if( res.state === "SUCCESS" ){
-			console.log( "share successed" );
-		}
-		else{
-			console.log( "share failed" );
-		}
-	}
-});
-3 Return data should be like this 
-{
-	completed = 0;
-	shareType = mail;
-	state = SUCCESS;
-}
+2. Call require('ti.module.share’).shareCarma(“Your sharing content”);
 
 Cheers!
