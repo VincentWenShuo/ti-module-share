@@ -21,6 +21,8 @@ label.text = timoduleshare.example();
 Ti.API.info("module exampleProp is => " + timoduleshare.exampleProp);
 timoduleshare.share({
 	text: "share carma!",
+	facebook: "share carma on facebook!",
+	twitter: "share carma on twitter!",
 	callback: function(res){
 		console.log( res );
 		if( res.state === "SUCCESS" ){

@@ -6,6 +6,15 @@
  */
 #import "TiModule.h"
 
+@interface StringProvider : UIActivityItemProvider
+{
+}
+@property       NSString *_facebookString;
+@property       NSString *_twitterString;
+@property       NSString *_smsString;
+@property       NSString *_mailString;
+@end
+
 @interface MaCarTiModuleShareModule : TiModule 
 {
 }

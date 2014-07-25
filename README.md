@@ -10,6 +10,7 @@ Currently it only supports sharing text content.
 How to use
 ------------
 1. Add module to your titanium project
-2. Call require('ti.module.share’).shareCarma(“Your sharing content”);
+2. Call require('ti.module.share’).share(“Your sharing content”);
+3. 
 
 Cheers!

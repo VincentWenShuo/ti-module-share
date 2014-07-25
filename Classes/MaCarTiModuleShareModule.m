@@ -10,6 +10,40 @@
 #import "TiUtils.h"
 #import "TiApp.h"
 
+@implementation StringProvider
+
+- (id)initWithPlaceholderString:(NSString*)placeholder facebookString:(NSString*)facebookContent twitterString:(NSString*)twitterContent
+{
+    self = [super initWithPlaceholderItem:placeholder];
+    if (self) {
+        self._facebookString = [[NSString alloc]initWithString:facebookContent];
+        self._twitterString = [[NSString alloc]initWithString:twitterContent];
+    }
+    return self;
+}
+
+- (id)item
+{
+    if ([self.activityType isEqualToString:UIActivityTypePostToFacebook] && ![self._facebookString isEqualToString:@"(null)"]) {
+        return self._facebookString;
+    }
+    else if ([self.activityType isEqualToString:UIActivityTypePostToTwitter] && ![self._twitterString isEqualToString:@"(null)"]) {
+        return self._twitterString;
+    }
+
+    else {
+        return self.placeholderItem;
+    }
+}
+
+-(void)dealloc
+{
+	[self._facebookString release];
+    [super dealloc];
+}
+
+@end
+
 @implementation MaCarTiModuleShareModule
 
 #pragma mark Internal
@@ -108,8 +142,19 @@
 {
     ENSURE_UI_THREAD_1_ARG(args);
     KrollCallback* m_callback = [[args objectAtIndex:0] valueForKey:@"callback"];
+    
     NSString* shareContent = [NSString stringWithFormat:@"%@", [[args objectAtIndex:0] valueForKey:@"text"]];
-    UIActivityViewController *activityViewController = [[[UIActivityViewController alloc] initWithActivityItems:@[shareContent] applicationActivities:nil ] autorelease];
+    
+    NSString* facebookContent = [NSString stringWithFormat:@"%@", [[args objectAtIndex:0] valueForKey:@"facebook"]];
+    
+    NSString* twitterContent = [NSString stringWithFormat:@"%@", [[args objectAtIndex:0] valueForKey:@"twitter"]];
+    
+    NSLog(twitterContent);
+    
+    StringProvider* stringProvider = [[StringProvider alloc] initWithPlaceholderString:shareContent facebookString:facebookContent twitterString:twitterContent];
+    
+    
+    UIActivityViewController *activityViewController = [[[UIActivityViewController alloc] initWithActivityItems:@[stringProvider] applicationActivities:nil ] autorelease];
     
     if (floor(NSFoundationVersionNumber) > NSFoundationVersionNumber_iOS_6_1) {
         activityViewController.excludedActivityTypes = @[UIActivityTypeAirDrop];
@@ -148,9 +193,5 @@
     return nil;
 }
 
--(void)onCompletion:(id)args
-{
-    
-}
-
 @end
+
