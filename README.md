@@ -11,6 +11,7 @@ How to use
 ------------
 1. Add module to your titanium project
 2. Call 
+{
 	require('ti.module.share’).share({
 		text: "default share content",
 		facebook: "facebook share content",
@@ -24,6 +25,7 @@ How to use
 			}
 		}	
 	});
+}
 3. 
 
 Cheers!
