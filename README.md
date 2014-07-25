@@ -10,7 +10,20 @@ Currently it only supports sharing text content.
 How to use
 ------------
 1. Add module to your titanium project
-2. Call require('ti.module.share’).share(“Your sharing content”);
+2. Call 
+	require('ti.module.share’).share({
+		text: "default share content",
+		facebook: "facebook share content",
+		twitter: "twitter share content",
+		callback: function( res ){
+			if( res.state == "SUCCESS"){
+			
+			}
+			else{
+			
+			}
+		}	
+	});
 3. 
 
 Cheers!
