@@ -1,16 +1,16 @@
-# timodule-share Module
+# ti-module-share Module
 
 ## Description
 
 TODO: Enter your module description here
 
-## Accessing the timodule-share Module
+## Accessing the ti-module-share Module
 
 To access this module from JavaScript, you would do the following:
 
-	var timodule-share = require("ma.car.ti.module.share");
+	var ti-module-share = require("ti.module.share");
 
-The timodule-share variable is a reference to the Module object.	
+The ti-module-share variable is a reference to the Module object.	
 
 ## Reference
 

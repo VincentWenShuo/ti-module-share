@@ -16,7 +16,7 @@ How to use
 2. Call 
 
 
-	require('ma.car.ti.module.share’).share({
+	require('ti.module.share’).share({
 	
 		text: "default share content",
 		

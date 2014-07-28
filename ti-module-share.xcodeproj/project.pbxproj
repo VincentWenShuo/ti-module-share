@@ -22,10 +22,10 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		24DD6CF91134B3F500162E58 /* TiModuleShareModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DD6CF71134B3F500162E58 /* TiModuleShareModule.h */; };
-		24DD6CFA1134B3F500162E58 /* TiModuleShareModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DD6CF81134B3F500162E58 /* TiModuleShareModule.m */; };
-		24DE9E1111C5FE74003F90F6 /* TiModuleShareModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 24DE9E0F11C5FE74003F90F6 /* TiModuleShareModuleAssets.h */; };
-		24DE9E1211C5FE74003F90F6 /* TiModuleShareModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 24DE9E1011C5FE74003F90F6 /* TiModuleShareModuleAssets.m */; };
+		37EFB90C1986A7D60063B949 /* MaCarTiModuleShareModule.h in Headers */ = {isa = PBXBuildFile; fileRef = 37EFB9081986A7D60063B949 /* MaCarTiModuleShareModule.h */; };
+		37EFB90D1986A7D60063B949 /* MaCarTiModuleShareModule.m in Sources */ = {isa = PBXBuildFile; fileRef = 37EFB9091986A7D60063B949 /* MaCarTiModuleShareModule.m */; };
+		37EFB90E1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.h in Headers */ = {isa = PBXBuildFile; fileRef = 37EFB90A1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.h */; };
+		37EFB90F1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.m in Sources */ = {isa = PBXBuildFile; fileRef = 37EFB90B1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.m */; };
 		AA747D9F0F9514B9006C5449 /* TiModuleShare_Prefix.pch in Headers */ = {isa = PBXBuildFile; fileRef = AA747D9E0F9514B9006C5449 /* TiModuleShare_Prefix.pch */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
 /* End PBXBuildFile section */
@@ -41,14 +41,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		24DD6CF71134B3F500162E58 /* TiModuleShareModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiModuleShareModule.h"; path = "Classes/TiModuleShareModule.h"; sourceTree = "<group>"; };
-		24DD6CF81134B3F500162E58 /* TiModuleShareModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiModuleShareModule.m"; path = "Classes/TiModuleShareModule.m"; sourceTree = "<group>"; };
 		24DD6D1B1134B66800162E58 /* titanium.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = titanium.xcconfig; sourceTree = "<group>"; };
-		24DE9E0F11C5FE74003F90F6 /* TiModuleShareModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TiModuleShareModuleAssets.h"; path = "Classes/TiModuleShareModuleAssets.h"; sourceTree = "<group>"; };
-		24DE9E1011C5FE74003F90F6 /* TiModuleShareModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TiModuleShareModuleAssets.m"; path = "Classes/TiModuleShareModuleAssets.m"; sourceTree = "<group>"; };
-		AA747D9E0F9514B9006C5449 /* TiModuleShare_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "TiModuleShare_Prefix.pch"; sourceTree = SOURCE_ROOT; };
+		37EFB9081986A7D60063B949 /* MaCarTiModuleShareModule.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MaCarTiModuleShareModule.h; path = Classes/MaCarTiModuleShareModule.h; sourceTree = "<group>"; };
+		37EFB9091986A7D60063B949 /* MaCarTiModuleShareModule.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MaCarTiModuleShareModule.m; path = Classes/MaCarTiModuleShareModule.m; sourceTree = "<group>"; };
+		37EFB90A1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MaCarTiModuleShareModuleAssets.h; path = Classes/MaCarTiModuleShareModuleAssets.h; sourceTree = "<group>"; };
+		37EFB90B1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MaCarTiModuleShareModuleAssets.m; path = Classes/MaCarTiModuleShareModuleAssets.m; sourceTree = "<group>"; };
+		AA747D9E0F9514B9006C5449 /* TiModuleShare_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TiModuleShare_Prefix.pch; sourceTree = SOURCE_ROOT; };
 		AACBBE490F95108600F1A2B1 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
-		D2AAC07E0554694100DB518D /* libTiModuleShare.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libTiModuleShare.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D2AAC07E0554694100DB518D /* libTiModuleShare.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libTiModuleShare.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -93,10 +93,10 @@
 		08FB77AEFE84172EC02AAC07 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				24DE9E0F11C5FE74003F90F6 /* TiModuleShareModuleAssets.h */,
-				24DE9E1011C5FE74003F90F6 /* TiModuleShareModuleAssets.m */,
-				24DD6CF71134B3F500162E58 /* TiModuleShareModule.h */,
-				24DD6CF81134B3F500162E58 /* TiModuleShareModule.m */,
+				37EFB9081986A7D60063B949 /* MaCarTiModuleShareModule.h */,
+				37EFB9091986A7D60063B949 /* MaCarTiModuleShareModule.m */,
+				37EFB90A1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.h */,
+				37EFB90B1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.m */,
 			);
 			name = Classes;
 			sourceTree = "<group>";
@@ -117,9 +117,9 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37EFB90C1986A7D60063B949 /* MaCarTiModuleShareModule.h in Headers */,
+				37EFB90E1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.h in Headers */,
 				AA747D9F0F9514B9006C5449 /* TiModuleShare_Prefix.pch in Headers */,
-				24DD6CF91134B3F500162E58 /* TiModuleShareModule.h in Headers */,
-				24DE9E1111C5FE74003F90F6 /* TiModuleShareModuleAssets.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -148,6 +148,8 @@
 /* Begin PBXProject section */
 		0867D690FE84028FC02AAC07 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+			};
 			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "ti-module-share" */;
 			compatibilityVersion = "Xcode 3.1";
 			developmentRegion = English;
@@ -190,8 +192,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				24DD6CFA1134B3F500162E58 /* TiModuleShareModule.m in Sources */,
-				24DE9E1211C5FE74003F90F6 /* TiModuleShareModuleAssets.m in Sources */,
+				37EFB90F1986A7D60063B949 /* MaCarTiModuleShareModuleAssets.m in Sources */,
+				37EFB90D1986A7D60063B949 /* MaCarTiModuleShareModule.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -212,11 +214,11 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DSTROOT = "/tmp/TiModuleShare.dst";
+				DSTROOT = /tmp/TiModuleShare.dst;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TiModuleShare_Prefix.pch";
+				GCC_PREFIX_HEADER = TiModuleShare_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				GCC_VERSION = "";
@@ -235,7 +237,7 @@
 					"-DTI_POST_1_2",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "TiModuleShare";
+				PRODUCT_NAME = TiModuleShare;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				RUN_CLANG_STATIC_ANALYZER = NO;
@@ -249,11 +251,11 @@
 			baseConfigurationReference = 24DD6D1B1134B66800162E58 /* titanium.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				DSTROOT = "/tmp/TiModuleShare.dst";
+				DSTROOT = /tmp/TiModuleShare.dst;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TiModuleShare_Prefix.pch";
+				GCC_PREFIX_HEADER = TiModuleShare_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				GCC_VERSION = "";
@@ -270,7 +272,7 @@
 				LIBRARY_SEARCH_PATHS = "";
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "TiModuleShare";
+				PRODUCT_NAME = TiModuleShare;
 				RUN_CLANG_STATIC_ANALYZER = NO;
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "";
@@ -283,11 +285,11 @@
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				DSTROOT = "/tmp/TiModuleShare.dst";
+				DSTROOT = /tmp/TiModuleShare.dst;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TiModuleShare_Prefix.pch";
+				GCC_PREFIX_HEADER = TiModuleShare_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				GCC_VERSION = "";
@@ -305,7 +307,7 @@
 					"-DTI_POST_1_2",
 				);
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "TiModuleShare";
+				PRODUCT_NAME = TiModuleShare;
 				PROVISIONING_PROFILE = "";
 				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
 				RUN_CLANG_STATIC_ANALYZER = NO;
@@ -319,11 +321,11 @@
 			baseConfigurationReference = 24DD6D1B1134B66800162E58 /* titanium.xcconfig */;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				DSTROOT = "/tmp/TiModuleShare.dst";
+				DSTROOT = /tmp/TiModuleShare.dst;
 				GCC_C_LANGUAGE_STANDARD = c99;
 				GCC_MODEL_TUNING = G5;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "TiModuleShare_Prefix.pch";
+				GCC_PREFIX_HEADER = TiModuleShare_Prefix.pch;
 				GCC_PREPROCESSOR_DEFINITIONS = "TI_VERSION=$(TI_VERSION)";
 				GCC_TREAT_WARNINGS_AS_ERRORS = NO;
 				GCC_VERSION = "";
@@ -339,7 +341,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				OTHER_CFLAGS = "-DTI_POST_1_2";
 				OTHER_LDFLAGS = "-ObjC";
-				PRODUCT_NAME = "TiModuleShare";
+				PRODUCT_NAME = TiModuleShare;
 				RUN_CLANG_STATIC_ANALYZER = NO;
 				SDKROOT = iphoneos;
 				USER_HEADER_SEARCH_PATHS = "";
