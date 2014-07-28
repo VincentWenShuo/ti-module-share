@@ -11,23 +11,27 @@ How to use
 ------------
 1. Add module to your titanium project
 2. Call 
-
-{
 	require('ti.module.share’).share({
+	
 		text: "default share content",
+		
 		facebook: "facebook share content",
+		
 		twitter: "twitter share content",
+		
 		callback: function( res ){
-			if( res.state == "SUCCESS"){
-			
+		
+			if( res.state == "SUCCESS" ){
+				console.log( "share successed on " + res.platform );
+			}
+			else if( res.state == "CANCEL" ){
+				console.log( "share cancelled on " + res.platform );
 			}
 			else{
-			
+				console.log( "share failed");
 			}
 		}	
+		
 	});
-}
-
-3. 
 
 Cheers!
