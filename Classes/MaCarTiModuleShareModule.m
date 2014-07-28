@@ -162,25 +162,29 @@
     
     [activityViewController setCompletionHandler:^(NSString *activityType, BOOL completed) {
         NSLog(@"completed dialog - activity: %@ - finished flag: %d", activityType, completed);
-        NSString* shareType = @"";
+        NSString* platform = @"";
         if ([activityType isEqualToString:UIActivityTypePostToFacebook]) {
-            shareType = @"facebook";
+            platform = @"facebook";
         }
         else if ([activityType isEqualToString:UIActivityTypePostToTwitter]) {
-            shareType = @"twitter";
+            platform = @"twitter";
         }
         else if ([activityType isEqualToString:UIActivityTypeMail]) {
-            shareType = @"mail";
+            platform = @"email";
         }
         else if ([activityType isEqualToString:UIActivityTypeMessage]) {
-            shareType = @"message";
+            platform = @"sms";
         }
         else {
-            //return nil;
+            platform = @"others";
+        }
+        NSString* state = @"SUCCESS";
+        if( !completed ){
+            state = @"CANCEL";
         }
         
         if(m_callback){
-            NSDictionary* dict = [[[NSDictionary alloc] initWithObjectsAndKeys:@"SUCCESS", @"state", shareType, @"shareType", [NSNumber numberWithBool:completed], @"completed", nil] autorelease];
+            NSDictionary* dict = [[[NSDictionary alloc] initWithObjectsAndKeys:state, @"state", platform, @"platform", nil] autorelease];
             NSArray* array = [NSArray arrayWithObjects: dict, nil];
             [m_callback call:array thisObject:nil];
         }
